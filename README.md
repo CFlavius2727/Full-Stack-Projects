@@ -47,3 +47,5 @@ This repository is a collection of projects built to develop and showcase full s
 ## Status
 
 Projects are being added and improved regularly as part of an ongoing journey to master full stack development.
+
+---
